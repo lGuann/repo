@@ -1182,6 +1182,54 @@ Description: 自由ios14手势
 Author: zlw555
 Name: ios14xhome
 
+Package: xianyu
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/xianyu_1.0_iphoneos-arm64.deb
+Size: 3250
+MD5sum: ad07a53a8a5d800c52e688105150f84b
+SHA1: a7056874ae85acd865adccd5f9e1593b000c2a33
+SHA256: f34d028be0a2d3840d89b1dcf6ded23b4f9d944c952830d8c551a655cb0c5cbd
+Section: Tweaks
+Description: 闲鱼去启动广告，去后台启动广告，部分代码来自ylr
+Author: z
+Name: 闲鱼-rootless
+
+Package: xianyu
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/roothide/xianyu_1.0_iphoneos-arm64e.deb
+Size: 3182
+MD5sum: f51b4debd7ef21a33534616bc9b61ec6
+SHA1: 1f254c0e7d12ca580e8bdfb493b01b615ebb1bf9
+SHA256: 8d72d7b13260932e1eda71fd8cf33f3f698d53b801ffb2b6dc76ced90a66652a
+Section: Tweaks
+Description: 闲鱼去启动广告，去后台启动广告，部分代码来自ylr
+Author: z
+Name: 闲鱼-roothide
+
+Package: xianyu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootful/xianyu_1.0_iphoneos-arm.deb
+Size: 3162
+MD5sum: 3d4ebf51b80cf52965a3b45c31ec6f7a
+SHA1: 8e11f32f699b95d4c670f664ef373c1f61e710db
+SHA256: b2a2676651383e1d3bfd3c9d64879c9b131ebeadbd0b8d64f2d996963c140eae
+Section: Tweaks
+Description: 闲鱼去启动广告，去后台启动广告，部分代码来自ylr
+Author: z
+Name: 闲鱼
+
 Package: ximalaya
 Version: 2.7.5
 Architecture: iphoneos-arm64
